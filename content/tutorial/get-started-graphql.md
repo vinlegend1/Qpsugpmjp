@@ -20,11 +20,11 @@ tags:
   - Javascript
 ---
 
-## What is GraphQL?
+**What is GraphQL?**
 
 **GraphQL** is like another way to send data from server to client. I hope that you're familiar as to what a REST API is, but the essential difference(that I know of) is that in a REST API, you would need to set up a lot of endpoints like `'/'` or `'/login'` or `'/about'`. GraphQL, however, really is set up on one endpoint `'/graphql'` and requires the client to *query as to which data the client would **need***. Which is a good segue to GraphQL's most impressive feature, you can select which data gets "sent". It might be confusing, but it'll be easier once we get our hands dirty with GraphQL.
 
-## Getting Started with NodeJS and Express
+**Getting Started with NodeJS and Express**
 
 For the purposes of this article, I'm going to stick with NodeJS. First, we need to initialize a directory as an npm thingy(i.e. initialize package.json). In your project directory... `npm init` to create a package.json file with dependencies and important wackadoo-dle's you need.
 
@@ -126,5 +126,5 @@ Response:
 }
 ```
 
-## Extra Resources
+**Extra Resources**
 - [GraphQL Docs](https://graphql.org/graphql-js/running-an-express-graphql-server/)
