@@ -50,7 +50,7 @@ Thank you for that quote, Richard Feynman. When you teach, you would need a foun
 Stay curious and keep learning!
 Thanks for reading this story! **Happy Teachers Day** to all the teachers out there!
 
-### Sources and Others:
+**Sources and Others:**
 [Khan Academy](https://khanacademy.org)
 
 [Thumbnail Source(The Irish Times)](https://www.irishtimes.com/life-and-style/abroad/working-abroad/teaching-abroad-how-and-where-to-find-a-job-1.2933071)
