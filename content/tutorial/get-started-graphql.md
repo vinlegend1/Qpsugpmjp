@@ -4,7 +4,7 @@ date: 2020-09-26T17:40:58+08:00 # Date of post creation.
 description: "In this tutorial, I'm going to show you how to get started with GraphQL. GraphQL is an awesome technology that is faster compared to your typical REST API. I am going to be using NodeJS and Express to demonstrate the power of GraphQL." # Description used for search engine.
 featured: true # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
+toc: true # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/default.jpg" # Sets featured image on blog post.
 thumbnail: "/default.jpg" # Sets thumbnail image appearing inside card on homepage.
@@ -20,11 +20,11 @@ tags:
   - Javascript
 ---
 
-**What is GraphQL?**
+## What is GraphQL?
 
 **GraphQL** is like another way to send data from server to client. I hope that you're familiar as to what a REST API is, but the essential difference(that I know of) is that in a REST API, you would need to set up a lot of endpoints like `'/'` or `'/login'` or `'/about'`. GraphQL, however, really is set up on one endpoint `'/graphql'` and requires the client to *query as to which data the client would **need***. Which is a good segue to GraphQL's most impressive feature, you can select which data gets "sent". It might be confusing, but it'll be easier once we get our hands dirty with GraphQL.
 
-**Getting Started with NodeJS and Express**
+## Getting Started with NodeJS and Express
 
 For the purposes of this article, I'm going to stick with NodeJS. First, we need to initialize a directory as an npm thingy(i.e. initialize package.json). In your project directory... `npm init` to create a package.json file with dependencies and important wackadoo-dle's you need.
 
@@ -126,5 +126,5 @@ Response:
 }
 ```
 
-**Extra Resources**
+## Extra Resources
 - <a href="https://graphql.org/graphql-js/running-an-express-graphql-server/" target="_blank">GraphQL Docs</a>
