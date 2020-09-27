@@ -1,0 +1,25 @@
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = -110
+
+
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = -107
+
+[[main]]
+  name = "Blog"
+  url = "/categories/blog/"
+  weight = -107
+
+[[main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = -105
+
+[[main]]
+  name = "Tutorials"
+  url = "/categories/tutorial/"
+  weight = -106

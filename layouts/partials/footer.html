@@ -1,0 +1,7 @@
+<footer class = 'footer'>
+  <div class = 'footer_inner wrap pale'>
+    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/cp0/120046416_993003944446687_8497698907895015965_n.png?_nc_cat=109&_nc_sid=ae9488&_nc_eui2=AeElPgqybre4eeqlYXHP9SiWd_rYXAkm_6F3-thcCSb_oXQtxd9nhLPArcv1fq-ds3tc3ST3Aif3TePw8FJQ0SE_&_nc_ohc=h5kHxVGpbOMAX8XdltU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=9b7487ee6f8a217ffd7eae4403c093d1&oe=5F95375D" style="width:30px;">
+    <p>{{ i18n "copyright" }} &copy;&nbsp;<span class = 'year'>{{ now.Format "2006"}}</span>&nbsp;{{ .Site.Title | upper }}. {{ i18n "all_rights" }}</p>
+    {{- partial "top" .}}
+  </div>
+</footer>

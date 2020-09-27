@@ -1,0 +1,16 @@
+# Show or hide by uncommenting and vice versa
+- item: "github"
+  url: "https://github.com/vinlegend1"
+- item: "twitter"
+  url: "https://twitter.com/yellowmathgames"
+- item: "linkedin"
+  url: "https://www.linkedin.com/in/vincent-hong-3316731aa/"
+- item: "youtube"
+  url: "https://www.youtube.com/https://www.youtube.com/channel/UCURjfSQb3sxmG08dhn3vh8A?view_as=subscriber"
+# - item: "facebook"
+#  url: "https://facebook.com/#"
+# - item: "instagram"
+# url: "https://instagram.com/#"
+# - item: "rss"
+#   url: "index.xml"
+#   internal:  true
