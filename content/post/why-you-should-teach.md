@@ -4,7 +4,7 @@ date: 2020-09-26T12:10:39+08:00 # Date of post creation.
 description: "Impact the Lives of People through Teaching; Teaching as a software developer" # Description used for search engine.
 featured: true # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
-toc: true # Controls if a table of contents should be generated for first-level links automatically.
+toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/uploads/teaching.jpg" # Sets featured image on blog post.
 thumbnail: "/uploads/teaching.jpg" # Sets thumbnail image appearing inside card on homepage.

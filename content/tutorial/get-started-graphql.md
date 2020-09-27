@@ -4,7 +4,7 @@ date: 2020-09-26T17:40:58+08:00 # Date of post creation.
 description: "In this tutorial, I'm going to show you how to get started with GraphQL. GraphQL is an awesome technology that is faster compared to your typical REST API. I am going to be using NodeJS and Express to demonstrate the power of GraphQL." # Description used for search engine.
 featured: true # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
-toc: true # Controls if a table of contents should be generated for first-level links automatically.
+toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/default.jpg" # Sets featured image on blog post.
 thumbnail: "/default.jpg" # Sets thumbnail image appearing inside card on homepage.

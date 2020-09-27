@@ -2,7 +2,7 @@
 title = "Projects"
 date = 2020-09-27
 draft = false
-toc = true
+toc = false
 +++
 
 ## Meme Reviewer App
