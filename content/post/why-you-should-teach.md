@@ -19,7 +19,7 @@ tags:
   - Teaching
 ---
 
-## Section 1: Introduction
+### Section 1: Introduction
 
 Have you ever asked yourself, "Who and what are teachers? What do they actually do? Who are qualified to become teachers?" I would like to think that majority of the population knows what teachers generally do, but let's dive in deeper to what it means to teach.
 
@@ -32,12 +32,12 @@ Fun Fact:
 
 Remember, babies cry to increase pressure in their tummies, which helps push out the stool. This is a self-limited problem, and all babies seem to get the hang of it after a while. - healthcare.utah.edu
 
-## Section 2: The Rise of Free Education
+### Section 2: The Rise of Free Education
 ![Khan Academy](https://cdn.kastatic.org/images/khan-logo-dark-background-2.png "Khan Academy")
 
 > Khan Academy is an American non-profit educational organization created in 2008 by Salman Khan, with the goal of creating a set of online tools that help educate students.
 
-## Section 3: Giving Back to the Community
+### Section 3: Giving Back to the Community
 
 Wow… That was a lot of filler! So… Why should I teach? Lemme quote Richard Feynman…
 
@@ -50,7 +50,7 @@ Thank you for that quote, Richard Feynman. When you teach, you would need a foun
 Stay curious and keep learning!
 Thanks for reading this story! **Happy Teachers Day** to all the teachers out there!
 
-## Sources and Others:
+### Sources and Others:
 [Khan Academy](https://khanacademy.org)
 
 [Thumbnail Source(The Irish Times)](https://www.irishtimes.com/life-and-style/abroad/working-abroad/teaching-abroad-how-and-where-to-find-a-job-1.2933071)
