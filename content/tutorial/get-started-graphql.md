@@ -127,4 +127,4 @@ Response:
 ```
 
 **Extra Resources**
-- [GraphQL Docs](https://graphql.org/graphql-js/running-an-express-graphql-server/)
+- <a href="https://graphql.org/graphql-js/running-an-express-graphql-server/" target="_blank">GraphQL Docs</a>
