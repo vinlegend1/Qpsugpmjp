@@ -1,11 +1,11 @@
-baseURL = "www.vincenthong.ga/"
+baseURL = "https://www.vincenthong.ga/"
 languageCode = "en-us"
 title = "Vincent Hong's Website"
 theme = "hugo-clarity"
 
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "www.vincenthong.ga/"  # Include trailing slash
+baseurl = "https://www.vincenthong.ga/"  # Include trailing slash
 author = "Vincent Hong"
 copyright = "Copyright © 2020, Vincent Hong; all rights reserved."
 # canonifyurls = true
