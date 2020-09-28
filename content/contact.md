@@ -21,12 +21,13 @@ toc = false
 
     /* Style the submit button with a specific background color etc */
     input[type=submit] {
-    background-color: #2980b9;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+        margin-top: 8px;
+        background-color: #2980b9;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
     }
 
     /* When moving the mouse over the submit button, add a darker green color */
