@@ -68,7 +68,7 @@ toc = false
 <label for="message">Message</label>
 <textarea id="message-contact" name="message" placeholder="Write your message" style="height:350px"></textarea>
 
-<div data-netlify-recaptcha="true"></div>
+<div data-netlify-recaptcha="true" style="max-width:100%;"></div>
 
 <input type="submit" value="Submit">
 
