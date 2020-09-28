@@ -40,10 +40,19 @@ toc = false
     background-color: #0a3d62;
     padding: 20px;
     }
+
+    .hidden {
+        
+        display: none;
+    }
 </style>
 
 <div class="container">
-<form name="contact" method="POST" netlify>
+<form name="contact" action="/thank-you/" data-netlify-recaptcha="true" netlify-honeypot="bot-field" method="POST" netlify>
+
+<p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+</p>
 
 <label for="fname">First Name</label>
 <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
@@ -57,6 +66,8 @@ toc = false
 
 <label for="message">Message</label>
 <textarea id="message-contact" name="message" placeholder="Write your message" style="height:350px"></textarea>
+
+<div data-netlify-recaptcha="true"></div>
 
 <input type="submit" value="Submit">
 
