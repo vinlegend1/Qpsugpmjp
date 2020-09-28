@@ -1,5 +1,5 @@
 ---
-title: "Traditional vs. New Media CN-16" # Title of the blog post.
+title: "Traditional vs. New CN-16" # Title of the blog post.
 date: 2020-09-27T21:14:31+08:00 # Date of post creation.
 description: "Traditional vs New Media - an Article for Identifying Form of Media" # Description used for search engine.
 featured: false # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
