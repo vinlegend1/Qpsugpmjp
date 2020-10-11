@@ -48,7 +48,7 @@ introDescription = "Student, Software Developer, NBA Fan"
 # description = "A software developer's personal website for tech, tutorials, school, and self-improvment. New blogs and tutorials every single week." # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
 # Google analytics Id
-ga_analytics = "XXXXXXXXXX"
+ga_analytics = "UA-180272029-1"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
 numberOfTagsShown = 10 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
