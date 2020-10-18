@@ -17,9 +17,9 @@ categories:
 tags:
 ---
 
-![New Media Word Cloud](https://www.troppusweb.com/blog/wp-content/uploads/2013/02/SMM.jpg "New Media Word Cloud")
+![New Media Word Cloud](/uploads/new-media-word.png "New Media Word Cloud")
 
-![Traditional Media Word Cloud](https://jabeehome.files.wordpress.com/2018/08/traditional-media-word-cloud.png?w=1100 "Traditional Media Word Cloud")
+![Traditional Media Word Cloud](/uploads/trad-word-cloud.png "Traditional Media Word Cloud")
 
 ## Traditional vs New Media: What and Why?
 
