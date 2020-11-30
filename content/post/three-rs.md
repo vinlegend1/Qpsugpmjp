@@ -1,5 +1,6 @@
 ---
 title: "Review, Reflect, React 16" # Title of the blog post.
+date: 2020-11-30T10:14:31+08:00
 description: "Reviewing, reflecting, and reacting on 2 ads" # Description used for search engine.
 featured: false # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
