@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vincenthong.ga
+Token: 8f63d38b1e0d2b54946cd2d4a217c9c80cc64c2056a6fe2cc048e93a50bd4b00
